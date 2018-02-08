@@ -1,0 +1,21 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon Homework",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^5.0.1",
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalease"
+  },
+  "author": "Nalease Marrow",
+  "license": "ISC"
+}
